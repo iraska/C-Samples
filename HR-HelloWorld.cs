@@ -1,3 +1,4 @@
+// Hacker Rank - Day 0 / HelloWord!
 using System;
 using System.Collections.Generic;
 using System.IO;
