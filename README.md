@@ -1,6 +1,6 @@
 # CSharp-Samples
 
 ## Comments
-HR --> Hacker Rank  
-P --> [patika.dev](https://app.patika.dev/)     
+HR --> [Hacker Rank](https://www.hackerrank.com/iraska)  
+P --> [patika.dev](https://app.patika.dev/iraska)  
 U --> Udemy
