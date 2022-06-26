@@ -1,6 +1,6 @@
 # CSharp-Samples
 
 ## Comments
-HR --> Hacker Rank
-P --> patika.dev
+HR --> Hacker Rank /n
+P --> patika.dev /n
 U --> Udemy
