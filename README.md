@@ -2,5 +2,5 @@
 
 ## Comments
 HR --> Hacker Rank  
-P --> patika.dev  
+P --> [patika.dev](https://app.patika.dev/)     
 U --> Udemy
